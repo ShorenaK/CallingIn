@@ -27,14 +27,17 @@ The CallingIn app has evolved with thoughtful updates aimed at deepening its imp
 
 # Recipient Decision Options:
 
-- Before accepting a CallingIn request, the recipient has options to choose how they’d like to proceed. This ensures both sides feel comfortable and prepared. Options include:
-Requesting a handwritten letter from the sender to show sincerity.
-Taking therapy first to prepare emotionally for the conversation.
-Involving a mediator to guide the conversation constructively.
-Starting the conversation immediately if they feel ready.
-Farewell Letter Option:
+- Before accepting a CallingIn request, the recipient has options to choose how they’d like to proceed. This ensures both sides feel comfortable and prepared. 
 
-- For users who decide not to continue the conversation or relationship, the app offers the option to write a Farewell Letter. This feature allows individuals to part ways with closure and peace, giving both sides the chance to move forward without lingering doubts or regrets.
+- Options include:
+    - Requesting a handwritten letter from the sender to show sincerity.
+    - Taking therapy first to prepare emotionally for the conversation.
+    - nvolving a mediator to guide the conversation constructively.
+    - Starting the conversation immediately if they feel ready.
+
+- Farewell Letter Option:
+
+    - For users who decide not to continue the conversation or relationship, the app offers the option to write a Farewell Letter. This feature allows individuals to part ways with closure and peace, giving both sides the chance to move forward without lingering doubts or regrets.
 Conflict Management and Reconnection Tools:
 
 - By offering psychology backed prompts and tools, the app supports users through every step of their journey whether they’re reconnecting, resolving a conflict, or finding closure.
