@@ -46,6 +46,17 @@ Conflict Management and Reconnection Tools:
 The CallingIn application isn’t just about repairing relationships; it’s about giving individuals the tools and space to address unresolved emotions and take meaningful steps toward healing. It’s for anyone who has ever hesitated to reach out, feared vulnerability, or struggled with letting go. By fostering honest communication, CallingIn aims to rebuild bridges, save emotional energy, and create healthier, more fulfilling relationships.
 
 
+- Monetization Options for CallingIn
+I have two ideas for how CallingIn can make money while still being helpful to people.
+ 1. Two Types of Users: Free Users and Professional Users
+Free Users: These are everyday people who want to navigate conflicts whether it's to reconnect with loved ones, resolve misunderstandings, or find closure. They can use the app for free to explore different ways to handle their relationships.
+Professional Users: These are therapists, mediators, and other professionals who can market their services through the app. They will pay for a subscription to be listed on CallingIn. When a recipient user (User B) accepts a CallingIn request, they will see options to move forward such as involving a mediator or therapist. If they choose this option, they’ll be directed to a page where they can browse professional users who offer their services within the app.
+This approach helps both sides people who need support and professionals looking to reach new clients.
+ 2. Addressing the Delta Gap in the Market
+Traditional therapy can be very expensive, and not everyone believes in it or feels comfortable seeking help that way. There’s a huge gap in the market for people who can’t afford therapy or prefer a different approach. CallingIn can be designed as an alternative for those who need support but want to navigate their conflicts in a different way.
+For example, in relationships, sometimes one partner believes in therapy while the other doesn’t. CallingIn could offer a middle ground giving couples and individuals tools to work through their issues without immediately jumping into expensive therapy. Therapists can also suggest CallingIn as an option for clients who want to try something different before committing to professional help.
+These two monetization ideas can help CallingIn become a valuable tool for both users and professionals while filling an important gap in the market.
+
 
 
 
