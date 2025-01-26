@@ -1,6 +1,15 @@
 # Object Oriented Design Principles - CS5004 class of 2024. Final Project!
 
+
+# Reconnect – For people who have lost touch and are stuck in a loop of confusion, wondering why communication stopped. This helps in reaching out and rebuilding connections.
+
+# Restore – To resolve ongoing disputes and issues with family members, friends, neighbors, coworkers, acquaintances, and relatives. It focuses on mending relationships and finding common ground.
+
+# Release – To write a farewell letter and achieve closure, allowing one to say goodbye and let go of someone forever.
+
+
 ## Description:
+
 ### NEW Version: 
 CallingIn Application: Building Bridges, One Honest Conversation at a Time
 This project is very dear to me. For a long time, I have wanted to create the CallingIn application a social media platform where people can express their frustrations and improve relationships by addressing issues openly before they escalate. The application is designed to help users "call in" friends, family, partners, and others, aiming to reduce resentment and maintain healthy, smooth relationships. By fostering honesty and clarity, CallingIn empowers users to address issues head-on, let go of grudges, and avoid unnecessary misunderstandings.
@@ -8,9 +17,9 @@ This project is very dear to me. For a long time, I have wanted to create the Ca
 The ultimate goal of CallingIn is to help users gain closure, save time otherwise spent dwelling on unresolved feelings, and prevent relationships from deteriorating. By discussing issues early and embracing transparency, users can either resolve their differences or part ways amicably rather than endure discomfort caused by hidden emotions. The app is more than just a platform for difficult conversations; it’s a safe space for meaningful discussions that encourage understanding and healing before situations spiral out of control.
 
 ### Old Version:
+
 ## Description:
 This project is very dear to me. For a long time, I have wanted to create the CallingOut application a social media platform where people can express their frustrations and improve relationships by addressing issues openly before they escalate. The application is designed to help users "call out" friends, family, partners, and others, aiming to reduce resentment, and maintain healthy and smooth relationships. This approach promotes honesty and clarity, helping users address issues head on, let go of grudges, and avoid unnecessary misunderstandings. The ultimate goal is to help users gain closure, save time otherwise spent dwelling on unresolved feelings, and prevent relationships from deteriorating. Additionally, the application highlights how much time and emotional energy can be saved by discussing issues early, by being transparent and honest, users can either resolve their differences or end relationships amicably rather than go through discomfort caused by hidden feelings. CallingOut is not just about "calling someone out," but also about creating a space for meaningful discussions before situations spiral out of control. Some might ask, "Why not just pick up the phone and call the person?" The reality is that we often don’t. Many of us hesitate for various reasons perhaps we’re vulnerable or fear the response, or maybe the person isn’t ready to hear what we have to say. If the user is not ready for a conversation after receiving a message via the CallingOut application, the recipient can choose to read it or listen to a voice message when they are ready. Some people dislike confrontation, while others prefer to live with assumptions rather than address uncomfortable truths. We find countless reasons to avoid difficult conversations, even with those that we love. We’re afraid of losing them, or we simply play along, pretending everything is fine. But the question remains: how long can we keep playing along? "CallingOut" application may not solve every day problem, but it offers a platform for expression, at the very least, it might help someone start a conversation that could lead to better understanding, closure, or even a stronger bond.
-
 
 
 ## Why CallingIn?
