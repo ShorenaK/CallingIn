@@ -3,7 +3,7 @@
 
 # Reconnect – For people who have lost touch and are stuck in a loop of confusion, wondering why communication stopped. This helps in reaching out and rebuilding connections.
 
-# Restore – To resolve ongoing disputes and issues with family members, friends, neighbors, coworkers, acquaintances, and relatives. It focuses on mending relationships and finding common ground.
+# Restore – To resolve ongoing disputes and issues with family members, friends, neighbors, coworkers, acquaintances, former-business partners and relatives. It focuses on mending relationships and finding common ground.
 
 # Release – To write a farewell letter and achieve closure, allowing one to say goodbye and let go of someone forever.
 
@@ -23,13 +23,13 @@ This project is very dear to me. For a long time, I have wanted to create the Ca
 
 
 ## Why CallingIn?
-Some might ask, “Why not just pick up the phone and call the person?” The reality is that we often don’t. Many of us hesitate for various reasons—perhaps we feel vulnerable, fear the response, or believe the other person isn’t ready to hear what we have to say. CallingIn recognizes these challenges and offers an alternative.
+Some might ask, “Why not just pick up the phone and call the person?” The reality is that we often don’t. Many of us hesitate for various reasons perhaps we feel vulnerable, fear the response, or believe the other person isn’t ready to hear what we have to say. CallingIn recognizes these challenges and offers an alternative.
 
 The app provides users with the option to communicate at their own pace. If the recipient is not ready for a conversation after receiving a message, they can choose to read it or listen to a voice message when they feel prepared. This approach balances honesty with respect for personal boundaries. For those who dislike confrontation or prefer avoiding uncomfortable truths, CallingIn serves as a bridge, offering an opportunity to express feelings without fear or judgment.
 
 Ultimately, the question is: how long can we keep playing along and pretending everything is fine? CallingIn may not solve every problem, but it offers a platform for expression and dialogue. At the very least, it might help someone start a conversation that could lead to better understanding, closure, or even a stronger bond.
 
-## New Features and Purpose
+## Purpose
 The CallingIn app has evolved with thoughtful updates aimed at deepening its impact and accessibility. The app is designed to reconnect people who haven’t spoken in years and may wonder why. It helps bridge the gap between individuals who both wish to reconnect but hesitate to take the first step. By providing a gentle push, it helps users overcome barriers of hesitation and time.
 
 ## Some key features include:
@@ -41,11 +41,12 @@ The CallingIn app has evolved with thoughtful updates aimed at deepening its imp
 - Options include:
     - Requesting a handwritten letter from the sender to show sincerity.
     - Taking therapy first to prepare emotionally for the conversation.
-    - nvolving a mediator to guide the conversation constructively.
+    - Involving a mediator to guide the conversation constructively.
     - Starting the conversation immediately if they feel ready.
+    - Suggest engaging in activities together to rebuild the bond, such as taking dance classes, enjoying outdoor or water activities, or any shared interest to create positive experiences.
 
 - Farewell Letter Option:
-
+- 
     - For users who decide not to continue the conversation or relationship, the app offers the option to write a Farewell Letter. This feature allows individuals to part ways with closure and peace, giving both sides the chance to move forward without lingering doubts or regrets.
 Conflict Management and Reconnection Tools:
 
